@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-05",
+    "amount": 200.0,
+    "description": "pizza",
+    "category": "food"
+  },
+  {
+    "id": 2,
+    "date": "2025-12-02",
+    "amount": 222.0,
+    "description": "Swiggy",
+    "category": "Food"
+  }
+]
